@@ -1,2 +1,2 @@
 # Cryptography
-my earning repo for cryptanalysis 
+my learning repo for cryptanalysis 
